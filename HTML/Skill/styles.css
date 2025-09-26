@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0c1020;
+    text-align: center;
+}
+
+.skills {
+    max-width: 80%;
+    height: 90%;
+    margin: 50px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #333;
+}
+
+.grid {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 20%;
+}
+
+.box {
+    width: 600px;
+    background:#0c1020;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
